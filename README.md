@@ -32,7 +32,7 @@
 ## Configure Watson Language Translator API with our App.
 
 1. Import the cloned repo to your preffered IDE.
-2. Go to `server.js` and update Line 10 with your newly generated LT API Endpoint.
+2. Go to `server.js` and update Line **10** with your newly generated LT API Endpoint.
 3. Save!
 
 
