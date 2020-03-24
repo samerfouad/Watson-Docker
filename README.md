@@ -25,7 +25,7 @@
 
 2. Next, change to the newly created directory by issuing `cd docker-demo`
 
-3. Finally, Clone the repo `https://github.com/samerfouad/Watson-Docker-Demo.git`
+3. Finally, Clone the repo `https://github.com/samerfouad/Watson-Docker.git`
 
 4. `cd Watson-Docker.git`
 
