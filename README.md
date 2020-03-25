@@ -37,7 +37,7 @@
 3. Search for **Language Translator** service and create a new instance under your account:
 ![IBM CLoud](assets/translator-find.jpg "IBM Cloud LT")
 ![IBM CLoud](assets/translator-create.jpg "IBM Cloud LT Create")
-4. Take a note for the newly generated LT API Key and URL.
+4. Take a note of the newly generated LT API Key and URL.
 2. Get back to `server.js` and update Line **10** with your newly generated LT API Endpoint.
 3. Save!
 
